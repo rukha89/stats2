@@ -1,4 +1,4 @@
-module github.com/rukha89/stats
+module github.com/rukha89/stats/v2
 
 go 1.15
 
